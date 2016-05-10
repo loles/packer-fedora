@@ -49,7 +49,6 @@
     },
     {
       "scripts": [
-        "scripts/cloudinit.sh",
         "scripts/cleanup.sh"
       ],
       "pause_before": "30s",
